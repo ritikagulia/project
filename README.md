@@ -1,0 +1,1 @@
+Edu Hub is a small project of our small enginners team . this website aims to slove the problem of losts of students in mdu how want to access mdu previous year question papers , notes , job profiles , free courses and etc stuff 
